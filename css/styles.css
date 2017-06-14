@@ -1,4 +1,4 @@
-/*
++/*
 Design by Free Responsive Templates
 http://www.free-responsive-templates.com
 Released for free under a Creative Commons Attribution 3.0 Unported License (CC BY 3.0)
@@ -118,11 +118,17 @@ header h1 a {
 }
 footer {
 	background:url(../images/contentBackground.jpg) repeat;
-	border-top:1px solid #bbbbbb;
+	position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  
+  
 } 
 footer p {
 	text-align:center;
-	padding:30px;
+	 
 }
 .clearfloat { 
 	clear:both;
