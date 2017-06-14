@@ -132,3 +132,19 @@ label.error {
     -moz-border-radius:6px;
     border-radius:6px;
 }
+
+footer {
+	background:url(../images/contentBackground.jpg) repeat;
+	position: absolute;
+  border-top:1px solid #bbbbbb;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  
+  
+} 
+footer p {
+	text-align:center;
+	padding:30px;
+}
